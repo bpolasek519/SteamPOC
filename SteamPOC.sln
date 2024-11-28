@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactApp1.Server", "ReactApp1.Server\ReactApp1.Server.csproj", "{3C834B37-F971-4C65-B1D2-A96AC800118C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamPOC.Server", "SteamPOC.Server\SteamPOC.Server.csproj", "{3C834B37-F971-4C65-B1D2-A96AC800118C}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp1.client", "reactapp1.client\reactapp1.client.esproj", "{86EA651E-7E4C-4FBE-8D6B-241A41758255}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "steampoc.client", "steampoc.client\steampoc.client.esproj", "{86EA651E-7E4C-4FBE-8D6B-241A41758255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
